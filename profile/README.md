@@ -2,9 +2,6 @@
  
 **A local-first enterprise document intelligence platform combining secure contract management, synchronized web and desktop access, evidence-grounded search, contract analysis, workflows, and knowledge-graph visualization.**
  
-</div>
----
- 
 ## What we're building
  
 docsgraph turns a pile of contracts and documents into a navigable knowledge graph — local-first, so your data stays on your machine by default, but synchronized across web and desktop when you need it. Search is evidence-grounded: answers point back to the exact passage they came from, not just a plausible-sounding summary. Contracts are analyzed automatically, and relationships between documents, parties, and clauses are visualized as an explorable graph, similar in spirit to tools like Obsidian — but built specifically for document and contract intelligence rather than general note-taking.
